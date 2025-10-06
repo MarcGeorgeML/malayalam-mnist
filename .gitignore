@@ -12,3 +12,5 @@ runs/
 /__pychache__aksharam_data.rar
 /aksharam_data.rar
 /__pycache__/
+dvc_storage/*
+symbol_data/*
