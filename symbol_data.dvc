@@ -1,0 +1,6 @@
+outs:
+- md5: 5883dd66d9d1087cb022a2c41adbda45.dir
+  size: 12253436
+  nfiles: 3863
+  hash: md5
+  path: symbol_data
